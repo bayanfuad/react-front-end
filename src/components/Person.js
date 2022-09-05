@@ -18,8 +18,7 @@ function Person(props) {
             <input type='text' placeHolder='edit gender' name='g'/>
             <br></br>
             <input type='submit' value='Press to edit'></input>
-            {/* <label><input type='radio' id='male' name ='gender' placeHolder='edit age' value="Male" checked/> Male</label>
-            <label><input type='radio' name ='gender' placeHolder='edit age' value="Female"/> Female</label> */}  
+              
         </form>
     </div>
   )
